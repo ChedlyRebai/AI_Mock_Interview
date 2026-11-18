@@ -9,6 +9,7 @@
 - Google Gemeni
 - Zod
 
+
 ## <a name="features">🔋 Features</a>
 
 👉 **Authentication**: Sign Up and Sign In using password/email authentication handled by Firebase.
